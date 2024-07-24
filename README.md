@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [20Sur20](https://app.themorpheus.ai)
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **Backend Development***
 
 - 💬 Ask me about **HTML,CSS,Bootstrap,Tailwindcss, Ant Design, JavaScript, Vanilla JavaScript, ReactJs and React-Redux.**
 
