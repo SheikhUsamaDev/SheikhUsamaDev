@@ -1,7 +1,7 @@
 <p align="center"> <img  src="https://www.simplilearn.com/ice9/free_resources_article_thumb/is_web_development_good_career.jpg" height="300" width="1000"  /> </p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ffcccc&amp;size=18&amp;lines=Hey!+It's+Usama+Saeed!;Frontend+Web+Developer...🏻‍💻;" style="width: 100%;">
 <h1 align="center">Hi 👋, I'm Usama Saeed</h1>
-<h3 align="center">A passionate Frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Web developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhusamadev&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhusamadev" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Backend Development***
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,Tailwindcss, Ant Design, JavaScript, Vanilla JavaScript, ReactJs and React-Redux.**
+- 💬 Ask me about **HTML,CSS,Bootstrap,Tailwindcss, Ant Design, JavaScript, Vanilla JavaScript, ReactJs and React-Redux, PHP , Python , Laraval, Mysqli**
 
 - 📫 How to reach me **usamasaeed4381@gmail.com**
 
